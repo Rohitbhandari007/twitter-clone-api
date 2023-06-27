@@ -13,7 +13,7 @@ React Code : https://github.com/learningnoobi/twitter-react
 `cd yourfolder` </br>
 `virtualenv env`</br> 
 `source env/bin/activate`</br>
-`git clone https://github.com/learningnoobi/twitter-api.git` </br>
+`git clone https://github.com/rohitbhandari007/twitter-api.git` </br>
 `pip install -r requirements.txt`</br>
 `cd twitter-api`</br>
 `python manage.py runserver`</br>
